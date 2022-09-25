@@ -2,9 +2,9 @@
 
 This repository contains the official code for the paper "*Multiway p-spectral graph cuts on Grassmann manifolds.*" published at [Machine Learning, 2022](https://link.springer.com/article/10.1007/s10994-021-06108-1).
 
-<p float="left">
-  <img src="Figures/Figure_Worms_Initial_img.jpeg"  alt="Initial data" width="350"/>
-  <img src="Figures/Figure_Worms_Clusters_img.jpeg" alt="p Clusters" width="350"/>
+<p align="center">
+  <img src="Figures/Figure_Worms_Initial_img.jpg"  alt="Initial data" width="350"/>
+  <img src="Figures/Figure_Worms_Clusters_img.jpg" alt="p Clusters" width="350"/>
 </p>
 <center>
 In this work, we developed a new method for multiway p-spectral clustering that leverages recent advancements in Riemannian optimization. This was achieved by reformulating the problem of obtaining multiple eigenvectors of the graph p-Laplacian as an unconstrained minimization problem on a Grassmann manifold.
