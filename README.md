@@ -24,7 +24,7 @@ All the algorithms are implemented in MATLAB R2021b. The necessary paths are inc
 
 ### Usage
 
-The main script [`Benchmark_pGrassmann.m`](src/Benchmark_pGrassmann.m) runs the experiments on the input data, located at the [`Input/Graphs`](Inputs/Graps) folder in .mat format.
+The main script [`Benchmark_pGrassmann.m`](src/Benchmark_pGrassmann.m) runs the experiments on the input data, located at the [`Input/Graphs`](Input/Graphs) folder in .mat format.
 
 **Input data**: The [LFR data](https://arxiv.org/abs/0805.4770) were used in Section 4.3.1 ***Reducing the value of p***, the synthetic Gaussian graphs in Section 4.3.2 ***Increasing the number of clusters (k)***, and the [Omniglot](https://github.com/brendenlake/omniglot) graphs in Section 4.4.2 ***Classification of Handwritten Characters***
 
