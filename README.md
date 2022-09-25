@@ -66,7 +66,7 @@ Further details are documented within the code.
 - [Christie Alappat](https://www.rrze.fau.de/1/christie-alappat/) ([christie.alappat@fau.de](mailto:christie.alappat@fau.de))
 
 ### Acknowledgements
-Our approach is using elements from the following publications
+Our approach is using elements from the following publications:
 1. Bühler T, Hein M (2009) Spectral clustering based on the graph p-Laplacian. In: Proceedings of the 26th Annual International Conference on Machine Learning, ACM, New York, NY, USA, ICML '09.
 2. Huang W, Absil PA, Gallivan KA, Hand P (2018) Roptlib: An object-oriented c++ library for optimization on riemannian manifolds. ACM Trans Math Softw 44(4).
 
