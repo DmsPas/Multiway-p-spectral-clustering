@@ -38,7 +38,7 @@ The following parameters (Lines 98 - 102) control important features of the algo
 ```
 p_final      = 1.100; % final value of p
 factor       = .9;    % factor of p-reduction (only if use_p_contin == 0)
-normalized   = 1;     % 1/0 normalized/ unnormalized p-clustering
+normalized   = 1;     % 1/0 normalized/unnormalized p-clustering
 use_p_contin = 1;     % 1/0 use pseudo-continuation for the reduction of p
 ```
 **Output**: The output is printed in the command window for each case under question, or saved to a file if ``write_output_to_file = true`` (Line 36). It includes the value of p at which the best partitioning was found (pBest), the values of ratio and normalized cut (RCut/NCut), the values of ratio and normalized Cheeger cut (RCCut/NCCut) and the modularity of the clusters (Modul). The accuracy of the clustering assignment is measured in terms of unsupervised clustering accuracy (ACC), variaton of information (VI), clustering error (CE) and normalized mutual information (NMI). Last, the time-to-solution for each graph is diplayed.
