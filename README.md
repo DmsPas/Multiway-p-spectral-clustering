@@ -17,7 +17,7 @@ Reformulating the spectral method from the traditional 2-norm to the p-norm has 
 
 ### A Grassmannian optimization approach to p-spectral clustering
 
-We propose a new multiway p-spectral clustering method, and recast the problem of finding multiple eigenpairs of the graph p-Laplacian as a Riemannian optimization problem on a Grassmann manifold. Our code builds on top of the recursive p-spectral bipartitioning code by [Bühler and Hein](https://www.ml.uni-saarland.de/code/pSpectralClustering/pSpectralClustering.htm), and utilizes the [ROPTLIB](https://www.math.fsu.edu/~whuang2/Indices/index_ROPTLIB.html) Riemannian manifold optimization library (See acknoledgements for citaions.) 
+We propose a new multiway p-spectral clustering method, and recast the problem of finding multiple eigenpairs of the graph p-Laplacian as a Riemannian optimization problem on a Grassmann manifold. Our code builds on top of the recursive p-spectral bipartitioning code by [Bühler and Hein](https://www.ml.uni-saarland.de/code/pSpectralClustering/pSpectralClustering.htm), and utilizes the [ROPTLIB](https://www.math.fsu.edu/~whuang2/Indices/index_ROPTLIB.html) Riemannian manifold optimization library (See acknoledgements for citations.) 
   
 ### Requirements
 All the algorithms are implemented in MATLAB R2021b. The necessary paths are included in the script [addpaths_pGrass.m](src/addpath_pGrass.m). The code has been tested in Mac and Ubuntu distributions.
