@@ -31,6 +31,7 @@ The main script [`Benchmark_pGrassmann.m`](src/Benchmark_pGrassmann.m) runs the 
 
 **Run**: To perform clustering on the available input data include the desired dataset in ``cases{}`` (Line 62), and type in the matlab command line
 ```
+>> cd src/
 >> Benchmark_pGrassmann
 ```
 
