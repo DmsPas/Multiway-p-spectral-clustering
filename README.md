@@ -10,6 +10,9 @@ This repository contains the official code for the paper "*Multiway p-spectral g
 In this work, we developed a new method for multiway p-spectral clustering that leverages recent advancements in Riemannian optimization. This was achieved by reformulating the problem of obtaining multiple eigenvectors of the graph p-Laplacian as an unconstrained minimization problem on a Grassmann manifold.
 </center>
 
+[![DOI](https://zenodo.org/badge/541179044.svg)](https://zenodo.org/badge/latestdoi/541179044)
+
+
 ### Motivation
 
 Reformulating the spectral method from the traditional 2-norm to the p-norm has proven to lead to a **sharp approximation of balanced cut metrics** and **improved clustering assignments**. Such re-formulations result in a tight relaxation of the spectral clustering problem, with the resulting solutions **approximating closely the solution of the original discrete problem**.
